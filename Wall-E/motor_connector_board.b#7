@@ -1043,12 +1043,12 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <wire x1="64.9224" y1="4.8768" x2="64.9224" y2="4.572" width="0.1524" layer="1"/>
 <wire x1="64.9224" y1="4.8768" x2="64.96" y2="5.08" width="0.1524" layer="1"/>
 <wire x1="122.9868" y1="16.9164" x2="122.9868" y2="16.6116" width="0.1524" layer="1"/>
-<wire x1="111.252" y1="28.6512" x2="122.9868" y2="16.9164" width="0" layer="19" extent="1-16"/>
 <wire x1="105.4608" y1="28.6512" x2="111.252" y2="28.6512" width="0.1524" layer="1"/>
 <wire x1="104.2416" y1="29.8704" x2="105.4608" y2="28.6512" width="0.1524" layer="1"/>
 <wire x1="104.2416" y1="31.0896" x2="104.2416" y2="29.8704" width="0.1524" layer="1"/>
 <wire x1="105.791" y1="32.639" x2="104.2416" y2="31.0896" width="0.1524" layer="1"/>
 <wire x1="122.9868" y1="16.6116" x2="123.063" y2="16.51" width="0.1524" layer="1"/>
+<wire x1="111.252" y1="28.6512" x2="122.9868" y2="16.9164" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="ACS_GND">
 <contactref element="U2" pad="1"/>
