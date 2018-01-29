@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="8.5.0">
+<eagle version="8.5.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -3204,7 +3204,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <sheet>
 <plain>
 <text x="350.52" y="7.62" size="5.08" layer="94">Dexter Watkins</text>
-<text x="421.64" y="7.62" size="3.81" layer="94">0.1</text>
+<text x="421.64" y="7.62" size="3.81" layer="94">0.2</text>
 <text x="2.54" y="269.24" size="6.4516" layer="91">Wall-E</text>
 <text x="2.54" y="261.62" size="3.81" layer="91">Motor Connnection Board</text>
 <text x="15.24" y="119.38" size="3.81" layer="91">Battery</text>
@@ -3732,19 +3732,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </sheet>
 </sheets>
 <errors>
-<approved hash="105,1,129.54,148.59,N$1,,,,,"/>
-<approved hash="105,1,287.02,113.03,N$2,,,,,"/>
-<approved hash="105,1,279.4,189.23,N$3,,,,,"/>
-<approved hash="105,1,2.54,124.46,N$4,,,,,"/>
-<approved hash="105,1,139.7,57.15,N$5,,,,,"/>
-<approved hash="105,1,259.08,40.64,N$6,,,,,"/>
 <approved hash="105,1,170.18,109.22,N$7,,,,,"/>
-<approved hash="105,1,226.06,152.4,N$8,,,,,"/>
-<approved hash="110,1,167.64,109.22,N$1,N$7,,,,"/>
-<approved hash="110,1,172.72,109.22,N$1,N$7,,,,"/>
-<approved hash="113,1,316.823,160.183,J2,,,,,"/>
-<approved hash="113,1,180.34,64.9326,J10,,,,,"/>
-<approved hash="113,1,180.34,42.0726,J12,,,,,"/>
 </errors>
 </schematic>
 </drawing>

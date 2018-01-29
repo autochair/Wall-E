@@ -40,13 +40,13 @@
 <layer number="42" name="bRestrict" color="1" fill="10" visible="no" active="yes"/>
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="yes"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="yes"/>
-<layer number="45" name="Holes" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="45" name="Holes" color="7" fill="1" visible="no" active="yes"/>
 <layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
 <layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
 <layer number="48" name="Document" color="7" fill="1" visible="no" active="yes"/>
 <layer number="49" name="Reference" color="7" fill="1" visible="no" active="yes"/>
 <layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
-<layer number="51" name="tDocu" color="6" fill="1" visible="yes" active="yes"/>
+<layer number="51" name="tDocu" color="6" fill="1" visible="no" active="yes"/>
 <layer number="52" name="bDocu" color="7" fill="1" visible="no" active="yes"/>
 <layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
 <layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
@@ -164,11 +164,16 @@
 <text x="49.53" y="0" size="1.778" layer="21" font="vector" ratio="15">GPIO</text>
 <text x="58.42" y="0" size="1.778" layer="21" font="vector" ratio="15">Current</text>
 <text x="74.93" y="2.54" size="1.016" layer="21" font="vector" ratio="15">AIN0</text>
-<text x="74.93" y="5.08" size="1.016" layer="21" font="vector" ratio="15">AIN1</text>
-<text x="74.93" y="7.62" size="1.016" layer="21" font="vector" ratio="15">AIN2</text>
-<text x="74.93" y="10.16" size="1.016" layer="21" font="vector" ratio="15">AIN3</text>
+<text x="74.93" y="6.35" size="1.016" layer="21" font="vector" ratio="15">AIN1</text>
+<text x="74.93" y="8.89" size="1.016" layer="21" font="vector" ratio="15">AIN2</text>
+<text x="74.93" y="11.43" size="1.016" layer="21" font="vector" ratio="15">AIN3</text>
 <text x="83.82" y="0" size="1.778" layer="21" font="vector" ratio="15">ENC</text>
-<text x="100.33" y="0" size="1.778" layer="21" font="vector" ratio="15">Motor A ^</text>
+<text x="100.33" y="1.27" size="1.778" layer="21" font="vector" ratio="15">Motor A ^</text>
+<text x="115.57" y="0" size="1.778" layer="21" font="vector" ratio="15">GND TP</text>
+<text x="29.21" y="30.48" size="1.778" layer="21" font="vector" ratio="15">ERR TP</text>
+<text x="29.21" y="26.67" size="1.778" layer="21" font="vector" ratio="15">GND TP</text>
+<text x="78.74" y="7.62" size="1.778" layer="21" font="vector" ratio="15">GND</text>
+<text x="78.74" y="5.08" size="1.778" layer="21" font="vector" ratio="15">OUT</text>
 </plain>
 <libraries>
 <library name="SparkFun-Connectors">
